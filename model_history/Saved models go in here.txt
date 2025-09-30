@@ -1,0 +1,1 @@
+Put yer saved models in here, also make sure to hook it from the main.py to function properly
