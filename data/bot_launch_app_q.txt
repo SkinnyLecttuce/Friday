@@ -1,0 +1,10 @@
+launch application
+open application
+start windows.exe
+open C: folder
+show me C: folder
+launch application
+open chrome.exe
+start lib.lnk
+open .lnk
+execute program.exe
