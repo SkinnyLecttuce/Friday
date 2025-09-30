@@ -1,2 +1,4 @@
 # Friday
 Friday is an AI bot. Uses a SVM classifier to identify intents, uses an entity detection library to extract important data from prompt and render tasks. Uses a Seq2Seq neural net to generate responses based on prompt. Not as good as the transformer model tho, still you can train your custom intent detection and response models and hook it from main.py to render tasks. Consider this as a light-weight AI. Add your training data to /data/ folder. Some paths needs to be set right to work in your pc. You can retrain the models if you want, can control how many epochs, learning rate, etc....  
+
+This also support Text-to-Speech, make sure you toggle it on from the code. Also use ai_discord_host.py instead of main.py when you need to use it as a discord bot(note: add your own discord token b4 running). main.py will run in terminal mode.
